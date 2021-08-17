@@ -19,3 +19,6 @@ How to run: php artisan serve
 run phpmyadmin: php -S localhost:8000
 
 import database or run migrations with php artisan migrate
+
+
+![laravel](https://user-images.githubusercontent.com/88947892/129723862-cf938f8f-df18-48a6-817e-f99130490cae.PNG)
